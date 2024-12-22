@@ -9,13 +9,12 @@ Welcome to my GitHub profile! I'm a software developer specializing in **Java Sp
 - ⚡ **Expanding:** Skills in backend frameworks and API design.
 
 ## Projects
-While most of my work is proprietary to my employer, I'm actively working on:
+I'm actively working on:
 - **Personal Projects:** Building tools and plugins for platforms like Discord.
 - **Open Source Contributions:** Enhancing compatibility between development tools for Windows and macOS.
 
 ## Skills
-- **Languages:** Java, SQL
-- **Frameworks & Tools:** Spring Boot, Lombok, Postman, IntelliJ IDEA
-- **Development Practices:** Microservices Architecture, Agile Methodologies
+- **Industry Knowledge:** Agile Methodologies, Agile Software Development, Cardiopulomary Resuscitation (CPR), First Aid, Project Management, Scrum, Scure File Transfer Protocol (SFTP)
+- **Tools & Technologies:**
 
-[![My Skills](https://skillicons.dev/icons?i=apple,azure,bash,bootstrap,c,cs,css,discord,express,git,github,githubactions,gherkin,html,idea,java,js,jenkins,kafka,linkedin,md,powershell,redhat,spring,sqlite,swift,ts,vim,vscode,vue,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,bash,bootstrap,c,cs,discord,dotnet,express,html,java,js,jenkins,kafka,maven,md,powershell,py,redhat,ruby,spring,sqlite,vue&perline=7)](https://skillicons.dev)
