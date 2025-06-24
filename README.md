@@ -1,7 +1,7 @@
 # Hi there, I'm Alexander Ellison 👋
 
 ## About Me
-Welcome to my GitHub profile! I'm a software developer specializing in **Java Spring** and **backend API development**. My work focuses on building **microservices** and ensuring seamless integration in an **Agile** environment. I enjoy tackling complex problems and delivering scalable, efficient solutions.
+Welcome to my GitHub profile! I'm a software developer specializing in Java Spring and backend API development. My work focuses on building microservices and ensuring seamless integration in an Agile environment. I enjoy tackling complex problems and delivering scalable, efficient solutions.
 
 ## Current Interests
 - 🔍 **Exploring:** Open-source contributions and personal projects.
