@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I'm a software developer specializing in Java Spri
 
 ## Projects
 I'm actively working on:
-- **Personal Projects:** Building tools and plugins for platforms like Discord.
+- **Personal Projects:** Building tools and services involving Java Spring and RESTful services.
 - **Open Source Contributions:** Enhancing compatibility between development tools for Windows and macOS.
 
 ## Skills
-- **Industry Knowledge:** Agile Methodologies, Agile Software Development, Cardiopulomary Resuscitation (CPR), First Aid, Project Management, Scrum, Scure File Transfer Protocol (SFTP)
+- **Industry Knowledge:** Agile Methodologies, Agile Software Development, Cardiopulmonary Resuscitation (CPR), First Aid, Project Management, Scrum, Secure File Transfer Protocol (SFTP)
 - **Tools & Technologies:**
 
 [![My Skills](https://skillicons.dev/icons?i=azure,bash,bootstrap,c,cs,discord,dotnet,html,java,js,jenkins,kafka,maven,md,powershell,py,redhat,ruby,spring,sqlite,vue)](https://skillicons.dev)
