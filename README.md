@@ -17,4 +17,4 @@ I'm actively working on:
 - **Industry Knowledge:** Agile Methodologies, Agile Software Development, Scrum, Secure File Transfer Protocol (SFTP)
 - **Tools & Technologies:**
 
-[![My Skills](https://skillicons.dev/icons?i=azure,bash,bootstrap,c,cs,discord,dotnet,html,java,js,jenkins,kafka,maven,md,powershell,py,redhat,ruby,spring,sqlite,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,azure,bash,bootstrap,c,cs,dotnet,gherkin,git,html,idea,java,js,jenkins,kafka,maven,md,postman,powershell,py,rails,redhat,ruby,spring,sqlite,vscode,vue,windows&perline=14)](https://skillicons.dev)
