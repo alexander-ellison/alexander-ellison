@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a software developer specializing in Java Spri
 
 ## Current Interests
 - 🔍 **Exploring:** Open-source contributions and personal projects.
-- 🛠 **Learning:** IBM InfoSphere DataStage, Discord APIs, and plugin development.
+- 🛠 **Learning:** IBM InfoSphere DataStage, Zena scheduled job automation, and Java Spring microservices.
 - ⚡ **Expanding:** Skills in backend frameworks and API design.
 
 ## Projects
