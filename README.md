@@ -14,7 +14,7 @@ I'm actively working on:
 - **Open Source Contributions:** Enhancing compatibility between development tools for Windows and macOS.
 
 ## Skills
-- **Industry Knowledge:** Agile Methodologies, Agile Software Development, Cardiopulmonary Resuscitation (CPR), First Aid, Project Management, Scrum, Secure File Transfer Protocol (SFTP)
+- **Industry Knowledge:** Agile Methodologies, Agile Software Development, Scrum, Secure File Transfer Protocol (SFTP)
 - **Tools & Technologies:**
 
 [![My Skills](https://skillicons.dev/icons?i=azure,bash,bootstrap,c,cs,discord,dotnet,html,java,js,jenkins,kafka,maven,md,powershell,py,redhat,ruby,spring,sqlite,vue)](https://skillicons.dev)
